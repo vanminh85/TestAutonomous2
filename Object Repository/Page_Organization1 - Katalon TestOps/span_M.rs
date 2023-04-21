@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_M</name>
+   <tag></tag>
+   <elementGuidId>92d485ff-05f9-44f6-97d5-e9d1afbfeed9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-right-navbar']/button[3]/div/div/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bd2710bb-5727-4cf4-8803-996de99972eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-traffic-agent-last-action-id</name>
+      <type>Main</type>
+      <value>c5e9a829-59c4-4158-9115-a7f6b5497991</value>
+      <webElementGuid>dc660765-cca0-4d75-804a-4bbe239546b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>M</value>
+      <webElementGuid>87c77219-01f5-4aeb-932e-c254d2e23325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-right-navbar&quot;)/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeLarge css-resnt5&quot;]/div[@class=&quot;avatar&quot;]/div[@class=&quot;rounded-circle sb-avatar sb-avatar--text&quot;]/div[@class=&quot;rounded-circle sb-avatar__text&quot;]/div[1]/span[1]/span[1]</value>
+      <webElementGuid>3ac9de0f-b0ed-4beb-aa5c-8ae7cca266b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-right-navbar']/button[3]/div/div/div/div/span/span</value>
+      <webElementGuid>e4a60987-ebac-4caf-95e3-2938bc5f006b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization1'])[1]/following::span[10]</value>
+      <webElementGuid>e77d4209-2145-4612-80e5-23b606fee84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Organization1'])[1]/preceding::span[4]</value>
+      <webElementGuid>60ee55df-149e-49f0-b046-33a88d37016b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Projects'])[1]/preceding::span[4]</value>
+      <webElementGuid>e39fe4d1-b6cc-41ea-bc56-80ca92f5107f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='M']/parent::*</value>
+      <webElementGuid>762fa853-6197-45aa-938a-44422f53d71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>ca0bf1a4-15f2-4a19-8a8a-8b758e79b32a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'M' or . = 'M')]</value>
+      <webElementGuid>bba51aee-9211-4d60-bce9-001598991b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

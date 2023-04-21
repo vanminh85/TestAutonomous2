@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>48a7c63b-7330-4756-a59f-e2a13ed0e89b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-bcXHqe.sc-gswNZR.sc-jrcTuL.iZrSxb.bbLVwL.ckpprO > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e62f0d4a-91e5-4416-9018-2f63908bba3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>8f139fc4-f930-41b7-8796-e3fc32375997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clip-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>3dce3fb2-c071-4187-9188-c9de98bef23b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M9.4543 0.544824C9.96198 1.05251 9.96198 1.87562 9.4543 2.3833L6.838 4.9996L9.45432 7.61591C9.962 8.12359 9.962 8.9467 9.45432 9.45439C8.94664 9.96207 8.12352 9.96207 7.61584 9.45439L4.99953 6.83807L2.3833 9.4543C1.87562 9.96198 1.05251 9.96198 0.544824 9.4543C0.0371421 8.94662 0.0371421 8.1235 0.544824 7.61582L3.16105 4.9996L0.544841 2.38339C0.0371591 1.87571 0.0371591 1.05259 0.544841 0.54491C1.05252 0.0372284 1.87564 0.0372284 2.38332 0.54491L4.99953 3.16112L7.61582 0.544824C8.1235 0.0371421 8.94662 0.0371421 9.4543 0.544824Z</value>
+      <webElementGuid>77f30fc8-de53-45fb-b57f-b17a5cf0a90c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-guest&quot;]/button[@class=&quot;sc-ipEyDJ sc-csuSiG cfBwgL fUbVAC&quot;]/div[@class=&quot;sc-bcXHqe sc-gswNZR bIFtsR bbLVwL&quot;]/div[@class=&quot;sc-bcXHqe sc-gswNZR sc-jrcTuL iZrSxb bbLVwL ckpprO&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>525cd616-3261-4789-848c-4993b1f02a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Katalon Studio  Best Codeless Test Aut_befb43/iframe_div</value>
+      <webElementGuid>e9666bd0-4c87-4a9f-a164-b7ce14dc6cc2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://admin.staging.katalon.com'</initValue>
+      <name>host</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsia2l0Il0sImthdE9uZUp3dCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUp6ZFdJaU9pSnRhVzVvTG01bmRYbGxia0JyWVhSaGJHOXVMbU52YlNJc0luVndiaUk2SWpRNE5qQTNNeUlzSW1keWIzVndjeUk2V3lKVlUwVlNJbDBzSW5OMFlYUjFjeUk2SWxaRlVrbEdTVVZFSWl3aVoybDJaVzVmYm1GdFpTSTZJazFwYm1naUxDSm1ZVzFwYkhsZmJtRnRaU0k2SWs1bmRYbGxiaUlzSW1WdFlXbHNJam9pYldsdWFDNXVaM1Y1Wlc1QWEyRjBZV3h2Ymk1amIyMGlMQ0psYldGcGJGOTJaWEpwWm1sbFpDSTZkSEoxWlN3aVkzSmxZWFJsWkY5aGRDSTZNVFl4TlRJM05qQXpOQ3dpZFhCa1lYUmxaRjloZENJNk1UWTNPRGd3TlRrME9Dd2lZVzF5SWpwYkluQjNaQ0pkTENKcFlYUWlPakUyTnpnNE1URTJPVGtzSW1WNGNDSTZNVFkzT1RReE5qUTVPU3dpYW5ScElqb2lOalprTXpNMFpUVXROR1U0T1MwME1URTJMV0k1Tm1JdE1UZGlZalJpTkRCaVpUZzRJaXdpYVhOeklqb2lhMkYwWVd4dmJpMWhkWFJvSW4wLkRtRXBIUmNic2QzaFo3YWlPcElXd2h6c1hfd2lwZ3lXQkhiM1g4Ynh6ZGVlNlEzbkVaWXNVTGhVNzllYXV4c295ajRXNjZ5bXlscGxWZ0VpNi1tQnJvLWFhWTVZNDYwZmhSRVFhbktyajFBX1NxVW13QzQwaDhNRjNzeHdURVY3dS1jOWxZRHhQemo3bENQamFsZ2pra3dIV0ZFV29JRFNUYkw4enZrNEgzV2RuQ09GOVh2SUV4WTdHQkkzZG5JMDlFYjV1VXdwRERmOTgtMWZIWFREaXFXU3pveXZRZWppVGNnSXIyYWlPdFZQTmFUTnNkQzJiaGU2amR4LUMzYkVGX2p0TFBqUVRmNEFrVF9ic19JN3ZnUktEV3hWS0gxU3kweDFUdzdwVnZlNjB2NV85SGY5YWxyUFZTa2FDWmtHX3EzZDF2dEI5QWJZbmVTS2l1WS1vQSIsInVzZXJfbmFtZSI6Im1pbmgubmd1eWVuQGthdGFsb24uY29tIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIl0sImV4cCI6MTY3OTQxNjQ5OSwianRpIjoiMDNjMmJiZWMtYmRhMC00MTZmLWJjMzQtMjczNWJmOTQxNjgwIiwiY2xpZW50X2lkIjoia2l0In0.asG_x1jyeKaBQVC7w8zROS43tMvA0QXyAYKW4xbVIzTcaO_3lvb_ap10nzBsLOoKAxBciwrWsUNUOM-NZHSN-Rkoj9OEDg7egtki6s7xTvDF6Ws0EdkC_p9MDZiPR6ikwfF1L9Ue3hOE5YtUYnpOU_rL5Vr1NCdiqcX91RcTBbVyMJlqRbDaEfx-Qm4ctSX9LO0-yVHbzSVDgFxj39CQea338Cdm3fLpuw2fhi7M0tPzJKINsupcHk5ByViRSATng7hczNCQlQ_SBPSE-XBigCvSFLhbSj1Q5VxmomMPMmjBnhGZTPqTPvZWfAxza0jgM8i1hPrVzKt8ti4z8D1kzA'</initValue>
+      <name>TokenOwner</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1'</initValue>
+      <name>autID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1'</initValue>
+      <name>id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'152590'</initValue>
+      <name>orgID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>NewProfile</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E7%8E%AF%E5%A2%83'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Nguyễn Văn Minh'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
